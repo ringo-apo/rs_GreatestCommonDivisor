@@ -1,0 +1,7 @@
+[package]
+name = "greatest"
+version = "0.1.0"
+authors = ["taira_akira"]
+edition = "2018"
+
+[dependencies]
